@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  color: white;
+  padding: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+}
+a:hover {
+  color: #61dafb;
+}
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  margin: 10px;
+}
